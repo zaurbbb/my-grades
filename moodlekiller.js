@@ -138,7 +138,7 @@ $( '.aa2:eq(35)' ).html("70.00");
 
 
 
-$( '.aa1:eq(0)' ).html("Foreign Language 1 (English));
+$( '.aa1:eq(0)' ).html("Foreign Language 1 (English)");
 $( '.aa1:eq(1)' ).html("85.67");
 $( '.aa1:eq(2)' ).html("78.33");
 $( '.aa1:eq(3)' ).html("82.00");
