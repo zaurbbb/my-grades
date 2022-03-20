@@ -18,7 +18,7 @@ $( '.a3:eq(10)' ).html("Physical Culture 3");
 $( '.a3:eq(11)' ).html("0.00");
 
 
-$( '.a2:eq(0)' ).html("Foreign Language 2 (English)");
+$( '.a2:eq(0)' ).html("oreign Language 2 (English)");
 $( '.a2:eq(1)' ).html("78.00");
 
 $( '.a2:eq(2)' ).html("WEB Technologies 1 (Front End)");
