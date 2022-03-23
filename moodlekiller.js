@@ -18,7 +18,7 @@ $( '.a3:eq(10)' ).html("Physical Culture 3");
 $( '.a3:eq(11)' ).html("0.00");
 
 
-$( '.a2:eq(0)' ).html("oreign Language 2 (English)");
+$( '.a2:eq(0)' ).html("Foreign Language 2 (English)");
 $( '.a2:eq(1)' ).html("78.00");
 
 $( '.a2:eq(2)' ).html("WEB Technologies 1 (Front End)");
@@ -77,40 +77,40 @@ $( '.aa3:eq(4)' ).html("0");
 $( '.aa3:eq(5)' ).html("0");
 
 $( '.aa3:eq(6)' ).html("WEB Technologies 2 (Back End)");
-$( '.aa3:eq(7)' ).html("");
-$( '.aa3:eq(8)' ).html("");
-$( '.aa3:eq(9)' ).html("");
-$( '.aa3:eq(10)' ).html("");
-$( '.aa3:eq(11)' ).html("");
+$( '.aa3:eq(7)' ).html("0");
+$( '.aa3:eq(8)' ).html("0");
+$( '.aa3:eq(9)' ).html("0");
+$( '.aa3:eq(10)' ).html("0");
+$( '.aa3:eq(11)' ).html("0");
 
 $( '.aa3:eq(12)' ).html("Algorithms and Data Structures");
-$( '.aa3:eq(13)' ).html("");
-$( '.aa3:eq(14)' ).html("");
-$( '.aa3:eq(15)' ).html("");
-$( '.aa3:eq(16)' ).html("");
-$( '.aa3:eq(17)' ).html("");
+$( '.aa3:eq(13)' ).html("0");
+$( '.aa3:eq(14)' ).html("0");
+$( '.aa3:eq(15)' ).html("0");
+$( '.aa3:eq(16)' ).html("0");
+$( '.aa3:eq(17)' ).html("0");
 
 $( '.aa3:eq(18)' ).html("Calculus 1");
-$( '.aa3:eq(19)' ).html("");
-$( '.aa3:eq(20)' ).html("");
-$( '.aa3:eq(21)' ).html("");
-$( '.aa3:eq(22)' ).html("");
-$( '.aa3:eq(23)' ).html("");
+$( '.aa3:eq(19)' ).html("0");
+$( '.aa3:eq(20)' ).html("0");
+$( '.aa3:eq(21)' ).html("0");
+$( '.aa3:eq(22)' ).html("0");
+$( '.aa3:eq(23)' ).html("0");
 
 $( '.aa3:eq(24)' ).html("Coding Lab");
-$( '.aa3:eq(25)' ).html("");
-$( '.aa3:eq(26)' ).html("");
-$( '.aa3:eq(27)' ).html("");
-$( '.aa3:eq(28)' ).html("");
-$( '.aa3:eq(29)' ).html("");
+$( '.aa3:eq(25)' ).html("0");
+$( '.aa3:eq(26)' ).html("0");
+$( '.aa3:eq(27)' ).html("0");
+$( '.aa3:eq(28)' ).html("0");
+$( '.aa3:eq(29)' ).html("0");
 
 $( '.aa3:eq(30)' ).html("Physical Culture 3");
-$( '.aa3:eq(31)' ).html("");
-$( '.aa3:eq(32)' ).html("");
-$( '.aa3:eq(33)' ).html("");
-$( '.aa3:eq(34)' ).html("");
-$( '.aa3:eq(35)' ).html("");
-$( '.aa3:eq(36)' ).html("");
+$( '.aa3:eq(31)' ).html("0");
+$( '.aa3:eq(32)' ).html("0");
+$( '.aa3:eq(33)' ).html("0");
+$( '.aa3:eq(34)' ).html("0");
+$( '.aa3:eq(35)' ).html("0");
+$( '.aa3:eq(36)' ).html("0");
 
 
 $( '.aa2:eq(0)' ).html("Foreign Language 2 (English");
