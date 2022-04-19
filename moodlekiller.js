@@ -6,7 +6,7 @@ $( '.a3:eq(2)' ).html("WEB Technologies 2 (Back End)");
 $( '.a3:eq(3)' ).html("0.00");
 
 $( '.a3:eq(4)' ).html("Algorithms and Data Structures");
-$( '.a3:eq(5)' ).html("0.00");
+$( '.a3:eq(5)' ).html("100.00");
 
 $( '.a3:eq(6)' ).html("Calculus 1");
 $( '.a3:eq(7)' ).html("0.00");
@@ -15,7 +15,7 @@ $( '.a3:eq(8)' ).html("Coding Lab");
 $( '.a3:eq(9)' ).html("0.00");
 
 $( '.a3:eq(10)' ).html("Physical Culture 3");
-$( '.a3:eq(11)' ).html("0.00");
+$( '.a3:eq(11)' ).html("80.00");
 
 
 $( '.a2:eq(0)' ).html("Foreign Language 2 (English)");
