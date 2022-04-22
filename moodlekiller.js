@@ -70,14 +70,14 @@ $( '.aa1:eq()' ).html("");
 $( '.aa1:eq()' ).html("");
 */
 $( '.aa3:eq(0)' ).html("Professional English");
-$( '.aa3:eq(1)' ).html("0");
+$( '.aa3:eq(1)' ).html("~75");
 $( '.aa3:eq(2)' ).html("0");
 $( '.aa3:eq(3)' ).html("0");
 $( '.aa3:eq(4)' ).html("0");
 $( '.aa3:eq(5)' ).html("0");
 
 $( '.aa3:eq(6)' ).html("WEB Technologies 2 (Back End)");
-$( '.aa3:eq(7)' ).html("0");
+$( '.aa3:eq(7)' ).html("~97");
 $( '.aa3:eq(8)' ).html("0");
 $( '.aa3:eq(9)' ).html("0");
 $( '.aa3:eq(10)' ).html("0");
@@ -98,7 +98,7 @@ $( '.aa3:eq(22)' ).html("0");
 $( '.aa3:eq(23)' ).html("0");
 
 $( '.aa3:eq(24)' ).html("Coding Lab");
-$( '.aa3:eq(25)' ).html("0");
+$( '.aa3:eq(25)' ).html("~93");
 $( '.aa3:eq(26)' ).html("0");
 $( '.aa3:eq(27)' ).html("0");
 $( '.aa3:eq(28)' ).html("0");
