@@ -113,7 +113,7 @@ $( '.aa3:eq(35)' ).html("0");
 $( '.aa3:eq(36)' ).html("0");
 
 
-$( '.aa2:eq(0)' ).html("Foreign Language 2 (English");
+$( '.aa2:eq(0)' ).html("Foreign Language 2 (English)");
 $( '.aa2:eq(1)' ).html("75.84");
 $( '.aa2:eq(2)' ).html("66.24");
 $( '.aa2:eq(3)' ).html("71.00");
@@ -188,8 +188,8 @@ $( '.aa1:eq(23)' ).html("70.00");
 $( '.aa1:eq(24)' ).html("Cultural studies");
 $( '.aa1:eq(25)' ).html("59.00");
 $( '.aa1:eq(26)' ).html("69.25");
-$( '.aa1:eq(27)' ).html("69.25");
-$( '.aa1:eq(28)' ).html("69.25");
+$( '.aa1:eq(27)' ).html("64.00");
+$( '.aa1:eq(28)' ).html("84.50");
 $( '.aa1:eq(29)' ).html("73.00")
 
 $( '.aa1:eq(30)' ).html("Physical Culture 1");
