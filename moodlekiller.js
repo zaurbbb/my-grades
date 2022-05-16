@@ -85,7 +85,7 @@ $( '.aa3:eq(11)' ).html("0");
 
 $( '.aa3:eq(12)' ).html("Algorithms and Data Structures");
 $( '.aa3:eq(13)' ).html("100.00");
-$( '.aa3:eq(14)' ).html("0");
+$( '.aa3:eq(14)' ).html("100.00"");
 $( '.aa3:eq(15)' ).html("0");
 $( '.aa3:eq(16)' ).html("0");
 $( '.aa3:eq(17)' ).html("0");
