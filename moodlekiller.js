@@ -86,13 +86,13 @@ $( '.aa3:eq(11)' ).html("0");
 $( '.aa3:eq(12)' ).html("Algorithms and Data Structures");
 $( '.aa3:eq(13)' ).html("100.00");
 $( '.aa3:eq(14)' ).html("100.00");
-$( '.aa3:eq(15)' ).html("0");
+$( '.aa3:eq(15)' ).html("100.00");
 $( '.aa3:eq(16)' ).html("0");
 $( '.aa3:eq(17)' ).html("0");
 
 $( '.aa3:eq(18)' ).html("Calculus 1");
 $( '.aa3:eq(19)' ).html("60.40");
-$( '.aa3:eq(20)' ).html("0");
+$( '.aa3:eq(20)' ).html("62.40");
 $( '.aa3:eq(21)' ).html("0");
 $( '.aa3:eq(22)' ).html("0");
 $( '.aa3:eq(23)' ).html("0");
@@ -106,11 +106,11 @@ $( '.aa3:eq(29)' ).html("0");
 
 $( '.aa3:eq(30)' ).html("Physical Culture 3");
 $( '.aa3:eq(31)' ).html("80.00");
-$( '.aa3:eq(32)' ).html("0");
-$( '.aa3:eq(33)' ).html("0");
-$( '.aa3:eq(34)' ).html("0");
-$( '.aa3:eq(35)' ).html("0");
-$( '.aa3:eq(36)' ).html("0");
+$( '.aa3:eq(32)' ).html("65.00");
+$( '.aa3:eq(33)' ).html("73.00");
+$( '.aa3:eq(34)' ).html("73.00");
+$( '.aa3:eq(35)' ).html("73.00");
+$( '.aa3:eq(36)' ).html("73.00");
 
 
 $( '.aa2:eq(0)' ).html("Foreign Language 2 (English)");
