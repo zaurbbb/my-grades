@@ -71,8 +71,8 @@ $( '.aa1:eq()' ).html("");
 */
 $( '.aa3:eq(0)' ).html("Professional English");
 $( '.aa3:eq(1)' ).html("78.77");
-$( '.aa3:eq(2)' ).html("0");
-$( '.aa3:eq(3)' ).html("0");
+$( '.aa3:eq(2)' ).html("81.21");
+$( '.aa3:eq(3)' ).html("80.00");
 $( '.aa3:eq(4)' ).html("0");
 $( '.aa3:eq(5)' ).html("0");
 
