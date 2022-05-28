@@ -78,8 +78,8 @@ $( '.aa3:eq(5)' ).html("0");
 
 $( '.aa3:eq(6)' ).html("WEB Technologies 2 (Back End)");
 $( '.aa3:eq(7)' ).html("96.00");
-$( '.aa3:eq(8)' ).html("0");
-$( '.aa3:eq(9)' ).html("0");
+$( '.aa3:eq(8)' ).html("95.00");
+$( '.aa3:eq(9)' ).html("96.00");
 $( '.aa3:eq(10)' ).html("0");
 $( '.aa3:eq(11)' ).html("0");
 
