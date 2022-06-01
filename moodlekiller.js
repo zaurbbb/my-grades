@@ -379,8 +379,8 @@ $( '.aa1:eq()' ).html("");
     $('.aa3:eq(7)').html("96.00");
     $('.aa3:eq(8)').html("95.00");
     $('.aa3:eq(9)').html("96.00");
-    $('.aa3:eq(10)').html("0");
-    $('.aa3:eq(11)').html("0");
+    $('.aa3:eq(10)').html("97.00");
+    $('.aa3:eq(11)').html("96.00");
 
     $('.aa3:eq(12)').html("Algorithms and Data Structures");
     $('.aa3:eq(13)').html("100.00");
