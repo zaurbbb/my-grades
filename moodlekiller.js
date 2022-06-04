@@ -69,19 +69,19 @@ $( '.a3:eq(0)' ).html("Professional English | Ainur Bakenova");
 $( '.a3:eq(1)' ).html("0.00");
 
 $( '.a3:eq(2)' ).html("WEB Technologies 2 (Back End) | Yelaman Apushev");
-$( '.a3:eq(3)' ).html("0.00");
+$( '.a3:eq(3)' ).html("96.00");
 
 $( '.a3:eq(4)' ).html("Algorithms and Data Structures | Kyzyrkanov Abzal");
 $( '.a3:eq(5)' ).html("0.00");
 
 $( '.a3:eq(6)' ).html("Calculus 1 | Kassabek Dina");
-$( '.a3:eq(7)' ).html("0.00");
+$( '.a3:eq(7)' ).html("71.00");
 
 $( '.a3:eq(8)' ).html("Coding Lab | Meruyert Nurgazy");
 $( '.a3:eq(9)' ).html("0.00");
 
 $( '.a3:eq(10)' ).html("Physical Culture 3 | Askapov Sarzhan");
-$( '.a3:eq(11)' ).html("0.00");
+$( '.a3:eq(11)' ).html("73.00");
 }
 
 //2nd trim
@@ -392,9 +392,9 @@ $( '.aa1:eq()' ).html("");
     $('.aa3:eq(18)').html("Calculus 1");
     $('.aa3:eq(19)').html("60.40");
     $('.aa3:eq(20)').html("62.40");
-    $('.aa3:eq(21)').html("61.40");
-    $('.aa3:eq(22)').html("0");
-    $('.aa3:eq(23)').html("0");
+    $('.aa3:eq(21)').html("61.00");
+    $('.aa3:eq(22)').html("87.00");
+    $('.aa3:eq(23)').html("71.00");
 
     $('.aa3:eq(24)').html("Coding Lab");
     $('.aa3:eq(25)').html("93.00");
