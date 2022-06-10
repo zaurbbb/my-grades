@@ -66,13 +66,13 @@ $( '.a4:eq(11)' ).html("0.00");
 //3rd trim
 {
 $( '.a3:eq(0)' ).html("Professional English | Ainur Bakenova");
-$( '.a3:eq(1)' ).html("0.00");
+$( '.a3:eq(1)' ).html("83.00");
 
 $( '.a3:eq(2)' ).html("WEB Technologies 2 (Back End) | Yelaman Apushev");
 $( '.a3:eq(3)' ).html("96.00");
 
 $( '.a3:eq(4)' ).html("Algorithms and Data Structures | Kyzyrkanov Abzal");
-$( '.a3:eq(5)' ).html("0.00");
+$( '.a3:eq(5)' ).html("90.00");
 
 $( '.a3:eq(6)' ).html("Calculus 1 | Kassabek Dina");
 $( '.a3:eq(7)' ).html("71.00");
@@ -372,8 +372,8 @@ $( '.aa1:eq()' ).html("");
     $('.aa3:eq(1)').html("78.77");
     $('.aa3:eq(2)').html("81.21");
     $('.aa3:eq(3)').html("80.00");
-    $('.aa3:eq(4)').html("0");
-    $('.aa3:eq(5)').html("0");
+    $('.aa3:eq(4)').html("87.00");
+    $('.aa3:eq(5)').html("83.00");
 
     $('.aa3:eq(6)').html("WEB Technologies 2 (Back End)");
     $('.aa3:eq(7)').html("96.00");
@@ -386,8 +386,8 @@ $( '.aa1:eq()' ).html("");
     $('.aa3:eq(13)').html("100.00");
     $('.aa3:eq(14)').html("100.00");
     $('.aa3:eq(15)').html("100.00");
-    $('.aa3:eq(16)').html("0");
-    $('.aa3:eq(17)').html("0");
+    $('.aa3:eq(16)').html("75.00");
+    $('.aa3:eq(17)').html("90.00");
 
     $('.aa3:eq(18)').html("Calculus 1");
     $('.aa3:eq(19)').html("60.40");
