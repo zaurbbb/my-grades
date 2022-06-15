@@ -78,7 +78,7 @@ $( '.a3:eq(6)' ).html("Calculus 1 | Kassabek Dina");
 $( '.a3:eq(7)' ).html("71.00");
 
 $( '.a3:eq(8)' ).html("Coding Lab | Meruyert Nurgazy");
-$( '.a3:eq(9)' ).html("0.00");
+$( '.a3:eq(9)' ).html("95.00");
 
 $( '.a3:eq(10)' ).html("Physical Culture 3 | Askapov Sarzhan");
 $( '.a3:eq(11)' ).html("73.00");
@@ -400,8 +400,8 @@ $( '.aa1:eq()' ).html("");
     $('.aa3:eq(25)').html("93.00");
     $('.aa3:eq(26)').html("90.00");
     $('.aa3:eq(27)').html("92.00");
-    $('.aa3:eq(28)').html("0");
-    $('.aa3:eq(29)').html("0");
+    $('.aa3:eq(28)').html("100.00");
+    $('.aa3:eq(29)').html("95.00");
 
     $('.aa3:eq(30)').html("Physical Culture 3");
     $('.aa3:eq(31)').html("80.00");
