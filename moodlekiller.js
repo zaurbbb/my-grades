@@ -117,7 +117,7 @@ $( '.a1:eq(4)' ).html("Introduction to Programming (C++) | Askar Khaimuldin");
 $( '.a1:eq(5)' ).html("76.00");
 
 $( '.a1:eq(6)' ).html("Linear Algebra | Akerke Zhailaubek");
-$( '.a1:eq(7)' ).html("0.00");
+$( '.a1:eq(7)' ).html("100.00");
 
 $( '.a1:eq(8)' ).html("Cultural Studies | Anar Uyzbayeva");
 $( '.a1:eq(9)' ).html("73.00");
@@ -480,11 +480,11 @@ $( '.aa2:eq(35)' ).html("70.00");
     $('.aa1:eq(17)').html("76.00");
 
     $('.aa1:eq(18)').html("Linear Algebra");
-    $('.aa1:eq(19)').html("0.00");
-    $('.aa1:eq(20)').html("0.00");
-    $('.aa1:eq(21)').html("0.00");
-    $('.aa1:eq(22)').html("0.00");
-    $('.aa1:eq(23)').html("0.00");
+    $('.aa1:eq(19)').html("100.00");
+    $('.aa1:eq(20)').html("100.00");
+    $('.aa1:eq(21)').html("100.00");
+    $('.aa1:eq(22)').html("100.00");
+    $('.aa1:eq(23)').html("100.00");
 
     $('.aa1:eq(24)').html("Cultural studies");
     $('.aa1:eq(25)').html("59.00");
